@@ -7,6 +7,3 @@ This is the repository for the Great Goated Ones' game in the 2016 San Diego Gam
 - Yang
 - Deanna
 - Dale
-
-
-Ayy Lmao
