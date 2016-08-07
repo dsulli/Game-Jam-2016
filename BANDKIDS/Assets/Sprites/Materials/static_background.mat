@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: bush
-  m_Shader: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: static_background
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -48,9 +48,9 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: b0357cfd167ba445aa485037d8873d72, type: 3}
-        m_Scale: {x: 5, y: 1}
-        m_Offset: {x: -0.045103073, y: 0}
+        m_Texture: {fileID: 2800000, guid: 6fbebbe54f3884464b9c706e21b1ce67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: -0.82297564, y: 0}
     - first:
         name: _MetallicGlossMap
       second:
