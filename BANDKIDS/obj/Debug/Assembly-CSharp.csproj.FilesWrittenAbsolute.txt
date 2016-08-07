@@ -1,0 +1,17 @@
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/obj/Debug/Assembly-CSharp.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/UnityEngine.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/UnityEditor.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mcswedo/Desktop/Deanna/Game-Jam-2016/BANDKIDS/obj/Debug/Assembly-CSharp.dll.mdb
