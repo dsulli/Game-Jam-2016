@@ -5,10 +5,30 @@ Elevator Pitch
 
 Main Game Features
 
+Loss Conditions
+	Getting hit by X obstacles
+	Player Character is hit by obstacle
 
+Points
+	Combos
+	Multipliers
 
+Obstacles
+	Children
+	Poop
+	Goats
+	Water Puddles
+
+Crowd Dynamics
+	Speed of Avatar
+		More people in the crowd = slower
+			Rate at which this slows = ?
+	Speed of the map
+	
+	
 
 Secondary Game Features
+
 
 
 
